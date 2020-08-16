@@ -1,6 +1,7 @@
 name: flutter_auto_scale
 description: A new Flutter package project.
 version: 0.0.1
+homepage: https://github.com/leeyonghe/flutter_auto_scale
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
